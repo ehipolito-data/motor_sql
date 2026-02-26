@@ -1,0 +1,44 @@
+[
+    {
+        "nombre":"HUB USB 7 PUERTOS",
+        "precio":34.99,
+        "stock":25,
+        "categoria":"Accesorios"
+    },
+    {
+        "nombre":"MOUSE GAMER \u00d3PTICO",
+        "precio":89.99,
+        "stock":42,
+        "categoria":"Perif\u00e9ricos"
+    },
+    {
+        "nombre":"MOUSEPAD GAMER XL",
+        "precio":29.99,
+        "stock":50,
+        "categoria":"Perif\u00e9ricos"
+    },
+    {
+        "nombre":"SOPORTE PARA MONITOR",
+        "precio":44.99,
+        "stock":18,
+        "categoria":"Accesorios"
+    },
+    {
+        "nombre":"TECLADO INAL\u00c1MBRICO",
+        "precio":79.99,
+        "stock":35,
+        "categoria":"Perif\u00e9ricos"
+    },
+    {
+        "nombre":"TECLADO MEC\u00c1NICO RGB",
+        "precio":516.6566666667,
+        "stock":92,
+        "categoria":"Perif\u00e9ricos"
+    },
+    {
+        "nombre":"WEBCAM HD 1080P",
+        "precio":59.99,
+        "stock":0,
+        "categoria":"Accesorios"
+    }
+]

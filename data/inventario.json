@@ -1,0 +1,74 @@
+[
+    {
+        "nombre": "Teclado MecániCo RGB",
+        "categoria": "Periféricos",
+        "precio": 1299.99,
+        "stock": 15
+    },
+    {
+        "nombre": "TeclaDo Mecánico RGb",
+        "categoria": "Periféricos",
+        "precio": 99.99,
+        "stock": 45
+    },
+    {
+        "nombre": "Teclado Mecánico RGB",
+        "categoria": "Periféricos",
+        "precio": 149.99,
+        "stock": 32
+    },
+    {
+        "nombre": "Monitor LG 27 pulgadas",
+        "categoria": "Monitores",
+        "precio": 399.99,
+        "stock": -8
+    },
+    {
+        "nombre": "Cable USB-C 2 metros",
+        "categoria": "Cables",
+        "precio": 19.99,
+        "stock": -120
+    },
+    {
+        "nombre": "Webcam HD 1080p",
+        "categoria": "Accesorios",
+        "precio": 59.99,
+        "stock": 0
+    },
+    {
+        "nombre": "Auriculares Sony WH-1000XM4",
+        "categoria": "Audio",
+        "precio": -349.99,
+        "stock": 12
+    },
+    {
+        "nombre": "Mousepad Gamer XL",
+        "categoria": "Periféricos",
+        "precio": 29.99,
+        "stock": 50
+    },
+    {
+        "nombre": "Hub USB 7 Puertos",
+        "categoria": "Accesorios",
+        "precio": 34.99,
+        "stock": 25
+    },
+    {
+        "nombre": "Soporte para Monitor",
+        "categoria": "Accesorios",
+        "precio": 44.99,
+        "stock": 18
+    },
+    {
+        "nombre": "Teclado Inalámbrico",
+        "categoria": "Periféricos",
+        "precio": 79.99,
+        "stock": 35
+    },
+    {
+        "nombre": "Mouse Gamer Óptico",
+        "categoria": "Periféricos",
+        "precio": 89.99,
+        "stock": 42
+    }
+]
